@@ -8,22 +8,24 @@
 
 this was released on my birthday! i wanted to make this special release as my first ever project, why? i wanted to celebrate my birthday and celebrate my first ever project on GitHub, i just hope this project atleast gets used. thank you!
 
+## for my fellow Christian people look forward to this page
+
 ## Introduction
 
-Hi! this dotfile has been made for older PC's, this dotfile mimics Hyprlands's core fuctions that made it popular, the animations and rounded corners, this thing aims at PC's that need a second life with a lil bit of spice, ive started this project myself without any help.
+Hi! this dotfile has been made for older PC's, this dotfile mimics Hyprlands's core functions that made it popular, the animations and rounded corners, this thing aims at PC's that need a second life with a little bit of spice, iv-e started this project myself without any help.
 
-oldrland already mimics them! It uses picom-ftlabs for the rounded corners, border masking and animations. Ive only tested this on a Arch Linux machine, it has a i3-2120, 10gb RAM and a 256gb hhd, from my experience the animations are great and there are no specific problems with it, everything is smooth. it can even be used on a modern pc, bspwm is lightweight, which makes it fast.
+oldrland already mimics them! It uses picom-ftlabs for the rounded corners, border masking and animations. Ive only tested this on a Arch Linux machine, it has a i3-2120, 10gb RAM and a 256gb HHD, from my experience the animations are great and there are no specific problems with it, everything is smooth. it can even be used on a modern PC, bspwm is lightweight, which makes it fast.
 
-## What are the minimum requirments?
+## What are the minimum requirements?
 
-the minimum requirments are:
+the minimum requirements are:
 
-- 8 gb of ram, if you plan to use the pc for basic tasks like browsing and stuff, 8 gb ram is enough.
+- 8 GB of ram, if you plan to use the PC for basic tasks like browsing and stuff, 8 GB ram is enough.
 - any 64 bit processor from 2011 or later, so the animations and transparency can run great.
 
 ## How does it look like?
 
-its clean and sleek, it looks like any hyprland rice but simpler and much more lightweight, heres a screenshot:
+its clean and sleek, it looks like any Hyprland rice but simpler and much more lightweight, here's a screenshot:
 
 <p align="center">
   <img src="screenshot.png" alt="desktop" width="49%">
@@ -31,7 +33,7 @@ its clean and sleek, it looks like any hyprland rice but simpler and much more l
 
 ## KNOWN ISSUES
 
-for some reason, its a lil but.. buggy but it doesnt affect your experience, there are no workspace animations like in hyprland and when you resize or tile a window, the rounded corners may turn square then back to rounded.
+for some reason, its a little bit.. buggy but it doesn't affect your experience, there are no workspace animations like in Hyprland and when you resize or tile a window, the rounded corners may turn square then back to rounded.
 
 ## Why did you make this project?
 
@@ -45,9 +47,9 @@ you only need:
   
  - dunst (a simple notification manager)
   
- - bspwm (the wm itself)
+ - bspwm (the window manager itself)
   
- - polybar (this is the bar you will use, it shows the clock, volume, ram and cpu usage, its useful.)
+ - polybar (this is the bar you will use, it shows the clock, volume, RAM and CPU usage, its useful.)
   
  - nemo (the file manager.)
   
@@ -55,17 +57,17 @@ you only need:
   
  - rofi (the launcher.)
   
- - xfce4-terminal (the terminal, it includes trasnparancy for the terminal window itself.)
+ - xfce4-terminal (the terminal, it includes transparency for the terminal window itself.)
 ***
 
-## - QUICK WARNINGS BEOFRE INSTALLATION:
+## - QUICK WARNINGS BEFORE INSTALLATION:
 
 ill reccomend to do this in a seperate desktop, incase you hit a roadblock, you can troubleshoot it from there.
 for example: if you use cinnamon, please do everything from there, all the commands wont overwrite anything from the desktop you are troubleshooting.
 
 ## How can i install them?
 
-you need a AUR helper, ill reccomend yay (yet another yogurt).
+you need a AUR helper, ill recommend yay (yet another yogurt).
 
 - bspwm and utilities install command:
   ```bash
@@ -76,7 +78,7 @@ you need a AUR helper, ill reccomend yay (yet another yogurt).
   ```bash
   sudo pacman -S --needed git base-devel
   ```
-now, lets get the aur helper i said in the first line of this category.
+now, lets get the AUR helper i said in the first line of this category.
 
 - cloning the repository
   ```bash
@@ -392,19 +394,19 @@ EOF
 
 no, it wont! the packages here are from original sources of course, an update wont break a thing.
 
-## What is the wallpaper you reccomend with this setup?
+## What is the wallpaper you recommend with this setup?
 
-ill reccomend the ones from pexels.com, they have high quality stock images and its free, heres the link:
+ill recommend the ones from pexels.com, they have high quality stock images and its free, heres the link:
 
 https://www.pexels.com/photo/misty-forest-mountainscape-with-dense-fog-34169628/
 
-this photo is made by Raul Ling, the image im showing is what im actively using on my current configuration.
+this photo is made by Raul Ling, the image I'm showing is what I'm actively using on my current configuration.
 
 ## What do i do after i used cat EOF to copy down the configuration?
 
-log out and log in to you new desktop! you can actually modify it yourself, you can make it more greater, a second reeason for this dotfile is to make users feel more comfortable onto dynamic window managers, or if they want to start with a premade desktop without having the pain of re-writing the config, they can copy this, and start from this.
+log out and log in to you new desktop! you can actually modify it yourself, you can make it more greater, a second reason for this dotfile is to make users feel more comfortable onto dynamic window managers, or if they want to start with a premade desktop without having the pain of re-writing the config, they can copy this, and start from this.
 
-## What if i want to shutdown my pc, do i have to run poweroff in a terminal or is there a keybind?
+## What if i want to shutdown my PC, do i have to run poweroff in a terminal or is there a keybind?
 
 i.. forgot about that, but we can add one! all we need is to tell sxhkd to create a keybind that runs poweroff for us, run the commands listed bellow:
 
@@ -423,3 +425,4 @@ ctrl + shift + r
 now, press Ctrl+O, this saves the configuration, then, Ctrl+X, this exits the configuration.
 
 we are done!
+feel free to customize this however you want!
