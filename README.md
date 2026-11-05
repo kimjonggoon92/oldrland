@@ -403,3 +403,23 @@ this photo is made by Raul Ling, the image im showing is what im actively using 
 ## What do i do after i used cat EOF to copy down the configuration?
 
 log out and log in to you new desktop! you can actually modify it yourself, you can make it more greater, a second reeason for this dotfile is to make users feel more comfortable onto dynamic window managers, or if they want to start with a premade desktop without having the pain of re-writing the config, they can copy this, and start from this.
+
+## What if i want to shutdown my pc, do i have to run poweroff in a terminal or is there a keybind?
+
+i.. forgot about that, but we can add one! all we need is to tell sxhkd to create a keybind that runs poweroff for us, run the commands listed bellow:
+
+- entering the configuration of sxhkd
+```bash
+nano ~/.config/sxhkd/sxhkdrc
+```
+- adding the poweroff keybind
+  at the very top, press enter 2 times, this creates a reasonable space, now that your cursor is on the top, type:
+
+```bash
+ctrl + shift + r
+  poweroff
+```
+
+now, press Ctrl+O, this saves the configuration, then, Ctrl+X, this exits the configuration.
+
+we are done!
