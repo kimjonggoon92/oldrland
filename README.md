@@ -10,7 +10,7 @@ this was released on my birthday! i wanted to make this special release as my fi
 
 ## for my fellow Christian people look forward to this page
 - remember, God loves you and he still loves you no matter what, and the bible verse everyone knows:
-- John 3:16: "For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life."
+## - John 3:16: "For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life."
 
 ## Introduction
 
