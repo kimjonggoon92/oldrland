@@ -418,7 +418,7 @@ nano ~/.config/sxhkd/sxhkdrc
   at the very top, press enter 2 times, this creates a reasonable space, now that your cursor is on the top, type:
 
 ```bash
-ctrl + shift + r
+ctrl + shift + alt + r
   poweroff
 ```
 
