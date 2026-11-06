@@ -9,8 +9,8 @@
 this was released on my birthday! i wanted to make this special release as my first ever project, why? i wanted to celebrate my birthday and celebrate my first ever project on GitHub, i just hope this project atleast gets used. thank you!
 
 ## for my fellow Christian people look forward to this page
-- remember, God loves you and he still loves you no matter what, and the bible verse everyone knows:
-## - John 3:16: "For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life."
+- remember, God loves you and he still loves you no matter what, heres a bible verse for you:
+## - Philippians 4:8 says: "Finally, brothers and sisters, whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable-if anything is excellent or praiseworthy-think about such things."
 
 ## Introduction
 
@@ -391,6 +391,8 @@ pseudo-transparency = true
 ; vim:ft=dosini
 EOF
 ```
+## What are the keybinds?
+the keybinds are located in sxhkrd, its literally here ._.
 
 ## What if i want to update, will it break?
 
@@ -423,8 +425,8 @@ nano ~/.config/sxhkd/sxhkdrc
 ctrl + shift + alt + r
   poweroff
 ```
-
 now, press Ctrl+O, this saves the configuration, then, Ctrl+X, this exits the configuration.
 
 we are done!
 feel free to customize this however you want!
+and if you are going trough a hard time, just so you know you are not alone, talk to a friend or someone you trust, or even a therapist, God loves you!
