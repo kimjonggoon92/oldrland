@@ -6,12 +6,12 @@
 
 ## SPECIAL RELEASE:
 
-this was released on my birthday! i wanted to make this special release as my first ever project, why? i wanted to celebrate my birthday and celebrate my first ever project on GitHub, i just hope this project atleast gets used. thank you!
+this was released on my birthday! i wanted to make this special release as my first ever project, why? i wanted to celebrate my birthday and celebrate my first ever project on GitHub, i just hope this project at least gets used. thank you!
 
 ## for my fellow Christian people look forward to this page
-- remember, God loves you and he still loves you no matter what, heres a bible verse for you:
+- remember, God loves you and he still loves you no matter what, here's a bible verse for you:
 ## - Philippians 4:8 says: "Finally, brothers and sisters, whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable-if anything is excellent or praiseworthy-think about such things."
-- This verse is a gentle blueprint for a peaceful mind. It reminds us to focus our thoughts on what is true, good, and beautiful, protecting our hears from the noise of the world.
+- This verse is a gentle blueprint for a peaceful mind. It reminds us to focus our thoughts on what is true, good, and beautiful, protecting our hearts from the noise of the world.
 
 ## Introduction
 
