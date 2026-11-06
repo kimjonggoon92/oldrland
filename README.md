@@ -11,6 +11,7 @@ this was released on my birthday! i wanted to make this special release as my fi
 ## for my fellow Christian people look forward to this page
 - remember, God loves you and he still loves you no matter what, heres a bible verse for you:
 ## - Philippians 4:8 says: "Finally, brothers and sisters, whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable-if anything is excellent or praiseworthy-think about such things."
+- This verse is a gentle blueprint for a peaceful mind. It reminds us to focus our thoughts on what is true, good, and beautiful, protecting our hears from the noise of the world.
 
 ## Introduction
 
