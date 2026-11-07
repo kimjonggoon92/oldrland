@@ -62,7 +62,7 @@ you only need:
   
  - firefox (the browser.)
   
- - rofi (the launcher.)
+ - rofi (the launcher. sadly it doesnt have a theme, i reccomend looking in github for one :c)
   
  - xfce4-terminal (the terminal, it includes transparency for the terminal window itself.)
 ***
@@ -109,7 +109,7 @@ whats left is the compositor, picom-ftlabs, since we now have yay, we use:
   
 # How can i install it?
 
-you need to use cat, ill list the command bellow, each having the category at where it will be applied!
+you need to use cat, ill list the command bellow, each having the category at where it will be applied
 
 - bspwm
 
