@@ -24,7 +24,11 @@ oldrland already mimics them! It uses picom-ftlabs for the rounded corners, bord
 the minimum requirements are:
 
 - 8 GB of ram, if you plan to use the PC for basic tasks like browsing and stuff, 8 GB ram is enough.
-- any 64 bit processor from 2011 or later, so the animations and transparency can run great.
+- any 64 bit processor from 2011 or later that supports compositing, so the animations and transparency can run great.
+
+## On what setup has this been tested on?
+
+not tested, USED, this has been tested on a Dell Optiplex 7010, specs being a i3-2120, 10 GB RAM, and no graphics card, only pure integrated graphics.
 
 ## How does it look like?
 
