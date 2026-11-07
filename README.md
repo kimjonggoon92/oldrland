@@ -62,7 +62,7 @@ you only need:
   
  - firefox (the browser.)
   
- - rofi (the launcher. sadly it doesnt have a theme, i reccomend looking in github for one :c)
+ - rofi (the launcher. ive looked for a theme on github and modified it for you, ill list the tutorial later in the installation)
   
  - xfce4-terminal (the terminal, it includes transparency for the terminal window itself.)
 ***
@@ -110,6 +110,15 @@ whats left is the compositor, picom-ftlabs, since we now have yay, we use:
 # How can i install it?
 
 you need to use cat, ill list the command bellow, each having the category at where it will be applied
+
+if you havent made the directories arleady, run:
+
+```bash
+mkdir -p ~/.config/bspwm ~/.config/sxhkd ~/.config/picom ~/.config/polybar
+```
+this creates our needed configurations.
+
+now, the commands listed bellow will apply the configuration that we need.
 
 - bspwm
 
@@ -207,7 +216,7 @@ super + d
     rofi -show drun
 EOF
 ```
-- picom
+- picom-ftlabs
 
 ```bash
 cat << 'EOF' > ~/.config/picom/picom.conf
@@ -396,8 +405,28 @@ pseudo-transparency = true
 ; vim:ft=dosini
 EOF
 ```
+
+## Now, where is the rofi theme?
+
+i found it for you! credits to Newman Sanchez on github https://github.com/newmanls
+
+the file is in this repository, you can clone the repository with git
+
+```bash
+git clone https://github.com/kimjonggoon92/oldrland
+```
+
+now that you have the repository, you shoudl see a "white-rofi.rasi" file, this is the configuration modified to be white and black of course.
+
+move the .rasi file in your Desktop folder, then run:
+
+```bash
+echo '@theme "/home/your-user/Desktop/white-rofi.rasi"' >> ~/.config/rofi/config.rasi
+```
+this command is an easier shortcut to adding the theme in our rofi configuration, the original one was squared-material-red.rasi but since picom draws the rounded corners even on the launcher, squared wasn't a promise sadly.
+
 ## What are the keybinds?
-the keybinds are located in sxhkrd, its literally here ._.
+the keybinds are located in sxhkrd, its literally here, read it ._.
 
 ## What if i want to update, will it break?
 
