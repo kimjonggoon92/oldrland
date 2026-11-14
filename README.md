@@ -467,7 +467,7 @@ now that you are comfortable with it, you CAN make it your own, for example here
 <img width="1280" height="1024" alt="Screenshot from 2026-11-14 08-47-51" src="https://github.com/user-attachments/assets/4836a6c7-d1de-430d-9ab6-b892b5c026e4" />
 (THIS IS AN OLDER SCREENSHOT I HAVE, I FORGOT TO TAKE MY RECENT ONE)
 
-ive use polybar-collection, some modification and a lil bit of trickery.
+i've used polybar-collection, some modification and a lil bit of trickery.
 
 ## we are done!
 ## feel free to customize this however you want!
