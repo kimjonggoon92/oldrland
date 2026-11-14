@@ -467,6 +467,6 @@ now that you are comfortable with it, you CAN make it your own, for example here
 <img width="1280" height="1024" alt="Screenshot from 2026-11-14 14-28-35" src="https://github.com/user-attachments/assets/03e8694b-92ca-4cab-b931-346be47f266b" />
 ive use polybar-collection, some modification and a lil bit of trickery.
 
-##we are done!
-##feel free to customize this however you want!
-and if you are going trough a hard time, just so you know you are not alone, talk to a friend or someone you trust, or even a therapist, God loves you!
+## we are done!
+## feel free to customize this however you want!
+## and if you are going trough a hard time, just so you know you are not alone, talk to a friend or someone you trust, or even a therapist, God loves you!
